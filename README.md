@@ -50,7 +50,7 @@ This reflects a strong understanding of system resilience, minimalism, and perfo
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
     📦 born2beroot  
     ┗ 📜 signature.txt
