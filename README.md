@@ -93,7 +93,7 @@ This reflects a strong understanding of system resilience, minimalism, and perfo
 
 # 🚧 Tutorials (Coming Soon)
 
-I'm currently working on a detailed tutorial to help others navigate the LIBFT project more efficiently. This section will include:
+I'm currently working on a detailed tutorial to help others navigate the BORN2BEROOT project more efficiently. This section will include:
 
     📹 Video Guide – A step-by-step walkthrough explaining key concepts and solutions.
     📄 PDF Guide – A structured document with explanations, tips, and best practices.
@@ -107,5 +107,6 @@ If you are also doing the Piscine, feel free to suggest improvements or share ne
     📬 Contact: If you want to discuss solutions or exchange ideas, find me on Discord or GitHub!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/60cc3bc7-fb89-435b-af30-3da855287fce" alt="Imagem" />
+  <img src="https://github.com/user-attachments/assets/4c14b4d4-9bb4-444d-8b90-64794adccb8a" alt="Imagem" />
 </p>
+
