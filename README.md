@@ -24,6 +24,10 @@ During the evaluation of Born2beroot, I delivered all mandatory setups, security
 
 This reflects a strong understanding of system resilience, minimalism, and performance — all pillars for cybersecurity in production-grade systems.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8af4b974-7a7a-44cb-9e46-df3bb81bb556" />
+</p>
+
 ---
 
 ## 📚 Key Features
